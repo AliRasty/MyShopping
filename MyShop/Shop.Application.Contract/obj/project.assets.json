@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/BaseFramework.dll": {}
         }
-      },
-      "Shop.Domin/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "BaseFramework": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Shop.Domin.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Shop.Domin.dll": {}
-        }
       }
     }
   },
@@ -32,16 +19,11 @@
       "type": "project",
       "path": "../BaseFramework/BaseFramework.csproj",
       "msbuildProject": "../BaseFramework/BaseFramework.csproj"
-    },
-    "Shop.Domin/1.0.0": {
-      "type": "project",
-      "path": "../Shop.Domin/Shop.Domin.csproj",
-      "msbuildProject": "../Shop.Domin/Shop.Domin.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Shop.Domin >= 1.0.0"
+      "BaseFramework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -76,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\C#\\0-Projects\\MyShopping\\MyShop\\Shop.Domin\\Shop.Domin.csproj": {
-              "projectPath": "E:\\C#\\0-Projects\\MyShopping\\MyShop\\Shop.Domin\\Shop.Domin.csproj"
+            "E:\\C#\\0-Projects\\MyShopping\\MyShop\\BaseFramework\\BaseFramework.csproj": {
+              "projectPath": "E:\\C#\\0-Projects\\MyShopping\\MyShop\\BaseFramework\\BaseFramework.csproj"
             }
           }
         }

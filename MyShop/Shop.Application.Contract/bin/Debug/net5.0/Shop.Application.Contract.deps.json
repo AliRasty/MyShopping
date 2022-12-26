@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shop.Application.Contract/1.0.0": {
+        "dependencies": {
+          "BaseFramework": "1.0.0"
+        },
+        "runtime": {
+          "Shop.Application.Contract.dll": {}
+        }
+      },
+      "BaseFramework/1.0.0": {
+        "runtime": {
+          "BaseFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shop.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

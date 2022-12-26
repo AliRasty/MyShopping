@@ -1,0 +1,15 @@
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\bin\Debug\net5.0\Shop.Application.Contract.deps.json
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\bin\Debug\net5.0\Shop.Application.Contract.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\bin\Debug\net5.0\Shop.Application.Contract.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\bin\Debug\net5.0\BaseFramework.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\bin\Debug\net5.0\BaseFramework.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.AssemblyInfo.cs
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.csproj.CopyComplete
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\refint\Shop.Application.Contract.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\Shop.Application.Contract.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Application.Contract\obj\Debug\net5.0\ref\Shop.Application.Contract.dll

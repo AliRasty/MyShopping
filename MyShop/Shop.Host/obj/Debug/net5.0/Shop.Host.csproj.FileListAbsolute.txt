@@ -1,0 +1,8 @@
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.csproj.AssemblyReference.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.AssemblyInfoInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.AssemblyInfo.cs
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.csproj.CoreCompileInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.RazorAssemblyInfo.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Host\obj\Debug\net5.0\Shop.Host.RazorAssemblyInfo.cs

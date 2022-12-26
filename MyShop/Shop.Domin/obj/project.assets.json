@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/BaseFramework.dll": {}
         }
+      },
+      "Shop.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BaseFramework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Application.Contract.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../BaseFramework/BaseFramework.csproj",
       "msbuildProject": "../BaseFramework/BaseFramework.csproj"
+    },
+    "Shop.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Application.Contract/Shop.Application.Contract.csproj",
+      "msbuildProject": "../Shop.Application.Contract/Shop.Application.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "BaseFramework >= 1.0.0"
+      "BaseFramework >= 1.0.0",
+      "Shop.Application.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +79,9 @@
           "projectReferences": {
             "E:\\C#\\0-Projects\\MyShopping\\MyShop\\BaseFramework\\BaseFramework.csproj": {
               "projectPath": "E:\\C#\\0-Projects\\MyShopping\\MyShop\\BaseFramework\\BaseFramework.csproj"
+            },
+            "E:\\C#\\0-Projects\\MyShopping\\MyShop\\Shop.Application.Contract\\Shop.Application.Contract.csproj": {
+              "projectPath": "E:\\C#\\0-Projects\\MyShopping\\MyShop\\Shop.Application.Contract\\Shop.Application.Contract.csproj"
             }
           }
         }

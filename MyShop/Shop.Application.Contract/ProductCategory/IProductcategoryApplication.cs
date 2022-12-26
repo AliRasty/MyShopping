@@ -1,14 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using BaseFramework.Application;
+using System.Collections.Generic;
 
 namespace Shop.Application.Contract.ProductCategory
 {
     public interface IProductcategoryApplication
     {
-        void Create(CreateProductCategory command);
-        void Edit(EditProductCategory command);
+        OperationResult Create(CreateProductCategory command);
+        OperationResult Edit(EditProductCategory command);
 
-        List<Domin.ProductCategoryAgg.ProductCategory> Search(ProductCategorySearchModel command);
+        List<ProductCategoryViewModel> Search(ProductCategorySearchModel command);
 
-        Domin.ProductCategoryAgg.ProductCategory GetDetails(long Id);
+        EditProductCategory GetDetails(long Id);
+
+
     }
 }

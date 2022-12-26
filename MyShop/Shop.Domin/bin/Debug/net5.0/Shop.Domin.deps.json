@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shop.Domin/1.0.0": {
+        "dependencies": {
+          "BaseFramework": "1.0.0",
+          "Shop.Application.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Shop.Domin.dll": {}
+        }
+      },
+      "BaseFramework/1.0.0": {
+        "runtime": {
+          "BaseFramework.dll": {}
+        }
+      },
+      "Shop.Application.Contract/1.0.0": {
+        "dependencies": {
+          "BaseFramework": "1.0.0"
+        },
+        "runtime": {
+          "Shop.Application.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shop.Domin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shop.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

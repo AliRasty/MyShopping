@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shop.Application.Contract\Shop.Application.Contract.csproj" />
+    <ProjectReference Include="..\Shop.Domin\Shop.Domin.csproj" />
+  </ItemGroup>
+
+</Project>

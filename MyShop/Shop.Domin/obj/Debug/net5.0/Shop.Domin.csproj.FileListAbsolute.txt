@@ -1,0 +1,17 @@
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\Shop.Domin.deps.json
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\Shop.Domin.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\Shop.Domin.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\BaseFramework.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\Shop.Application.Contract.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\BaseFramework.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\bin\Debug\net5.0\Shop.Application.Contract.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.csproj.AssemblyReference.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.AssemblyInfoInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.AssemblyInfo.cs
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.csproj.CoreCompileInputs.cache
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.csproj.CopyComplete
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\refint\Shop.Domin.dll
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\Shop.Domin.pdb
+E:\C#\0-Projects\MyShopping\MyShop\Shop.Domin\obj\Debug\net5.0\ref\Shop.Domin.dll
