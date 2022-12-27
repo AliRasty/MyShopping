@@ -11,9 +11,9 @@ SinglePage.LoadModal = function () {
         function (htmlPage) {
             $("#ModalContent").html(htmlPage);
             const container = document.getElementById("ModalContent");
-            const forms = container.getElementsByTagName("form");
-            const newForm = forms[forms.length - 1];
-            $.validator.unobtrusive.parse(newForm);
+            //const forms = container.getElementsByTagName("form");
+            //const newForm = forms[forms.length - 1];
+            //$.validator.unobtrusive.parse(newForm);
             showModal();
         }).fail(function (error) {
             alert("خطایی رخ داده، لطفا با مدیر سیستم تماس بگیرید.");
@@ -85,7 +85,7 @@ function CallBackHandler(data, action, form) {
             alert(data.Message);
             break;
         case "Refresh":
-            if (data.isSuccedded) {
+            if (data.IsSuccedded) {
                 window.location.reload();
             } else {
                 alert(data.message);
