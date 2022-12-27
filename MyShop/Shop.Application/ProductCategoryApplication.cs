@@ -38,7 +38,7 @@ namespace Shop.Application
         public OperationResult Edit(EditProductCategory command)
         {
             var operation = new OperationResult();
-            var productCategory = _productCategoryRepository.GetById(command.Id);
+            var productCategory = _productCategoryRepository.Get(command.Id);
 
             if (_productCategoryRepository.Exists(x=>x.Name == command.Name
                                                      && x.Id == command.Id))

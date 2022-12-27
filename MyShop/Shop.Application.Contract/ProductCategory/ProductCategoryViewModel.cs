@@ -10,5 +10,6 @@
         public string Picture { get; set; }
 
         public string ProductCount { get; set; }
+        public string CreationDate { get; set; }
     }
 }
