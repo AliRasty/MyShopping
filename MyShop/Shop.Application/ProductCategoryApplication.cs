@@ -55,6 +55,11 @@ namespace Shop.Application
             return operation.Succedded();
         }
 
+        public List<ProductCategoryViewModel> GetCategory()
+        {
+            return _productCategoryRepository.GetCategory();
+        }
+
         public EditProductCategory GetDetails(long Id)
         {
             return _productCategoryRepository.GetDetails(Id);

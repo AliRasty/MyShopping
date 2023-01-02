@@ -35,5 +35,19 @@ namespace BookShopHost.Areas.Administrator.Pages.Shoping.ProductCategories
             var result = _application.Create(create);
             return new JsonResult(result);
         }
+
+
+        public IActionResult OnGetEdit(long id)
+        {
+            var productCategory = _application.GetDetails(id);
+            return Partial("Edit", productCategory);
+        }
+
+        public JsonResult OnPostEdit(EditProductCategory editProduct)
+        {
+            var res = _application.Edit(editProduct);
+
+            return new JsonResult(res);
+        }
     }
 }

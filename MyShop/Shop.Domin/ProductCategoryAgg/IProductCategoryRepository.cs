@@ -8,8 +8,8 @@ namespace Shop.Domin.ProductCategoryAgg
 {
     public interface IProductCategoryRepository :IRepository<long,ProductCategory>
     {
-      
-       
+
+        List<ProductCategoryViewModel> GetCategory();
         EditProductCategory GetDetails(long id);
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel command);
     }
