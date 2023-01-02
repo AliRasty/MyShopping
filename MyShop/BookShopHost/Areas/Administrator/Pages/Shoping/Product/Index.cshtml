@@ -40,7 +40,10 @@
                     </div>
                     <div class="form-group">
                         <label class="sr-only" asp-for="searchViewModels.CategoryId" ></label>
-                        <select class="form-control" asp-for="searchViewModels.CategoryId" asp-items="Model.productCategories">
+                        <select class="form-control" asp-for="searchViewModels.CategoryId"
+                                asp-items="Model.productCategories">
+                            
+
                             <option value="0">انتخاب گروه محصولات...</option>
                         </select>
                     </div>
@@ -84,6 +87,7 @@
                                                 <img src="@item.Picture" style="width: 70px; height: 70px" />
                                             </td>
                                             <td>@item.Name</td>
+                                            <td>@item.Picture</td>
                                             <td>@item.Code</td>
                                             <td>@item.Category</td>
                                             <td>@item.UnitPrice</td>

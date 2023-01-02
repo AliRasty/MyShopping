@@ -169,3 +169,4 @@ E:\C#\0-Projects\MyShopping\MyShop\BookShopHost\obj\Debug\net5.0\Razor\Areas\Adm
 E:\C#\0-Projects\MyShopping\MyShop\BookShopHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Shoping\ProductCategories\Edit.cshtml.g.cs
 E:\C#\0-Projects\MyShopping\MyShop\BookShopHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Shoping\Product\Index.cshtml.g.cs
 E:\C#\0-Projects\MyShopping\MyShop\BookShopHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Shoping\Product\Create.cshtml.g.cs
+E:\C#\0-Projects\MyShopping\MyShop\BookShopHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Shoping\Product\Edit.cshtml.g.cs
